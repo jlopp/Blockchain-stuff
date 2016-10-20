@@ -114,7 +114,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [Morgan Spurlock Inside Bitcoin (40 min)]( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)] (https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)] (https://www.youtube.com/watch?v=7-vYEsfsa30)
-
+* [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
 
 ###Youtube Channels
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
