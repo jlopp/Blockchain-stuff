@@ -4,7 +4,7 @@ A curated list of blockchain and general cryptocurrency resources.
 
 ## Table of Contents
 
-* [Bitcoin Books](#bitcoin)
+* [Bitcoin](#bitcoin)
 * [Blockchain Art](#blockchain-art)
 * [Blockchain Books](#blockchain-books)
 * [Courses](#courses)
@@ -13,58 +13,10 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Explorers](#explorers)
 * [Infographics](#infographics)
 * [Talks](#talks)
-* [White Papers](#white-papers)
+* [Research Papers](#research-papers)
 * [Youtube Channels](#youtube-channels)
 * [Assets](#assets)
 * [Private Blockchains](#private-blockchain)
-
-### Blockchain Books
-
-* [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
-* [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
-* [Cryptocurrency Investment: How to Invest in Cryptocurrencies and Make Money in the Long-term](https://www.amazon.com/dp/B07588PNMR) - Tamas Torok
-* [Blockchain Revolution: How the Technology behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Don and AlexTapscott
-* [Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use Blockchain for Your Benefit](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=JMGHCB5WB1SFP0HYMK6E&pd_rd_w=uHeeo&pd_rd_wg=cburT&psc=1&refRID=JMGHCB5WB1SFP0HYMK6E) - Phil Stein
-* [Blockchain The Ultimate Guide to Understanding the Hidden Economy](https://www.amazon.com/Blockchain-Ultimate-Understanding-Hidden-Economy/dp/1534839720/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1534839720&pd_rd_r=6W5M79GD2JFECEZDHPJF&pd_rd_w=19drm&pd_rd_wg=DMS0s&psc=1&refRID=6W5M79GD2JFECEZDHPJF) -s Oscar Flynt
-* [Blockchain: Blueprint for a New Economy](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=3KQXC5RXYM1R64CDQ0DW&pd_rd_w=YGgzx&pd_rd_wg=udR6C&psc=1&refRID=3KQXC5RXYM1R64CDQ0DW) - Melanie Swan
-* [Blockchain: Easiest Ultimate Guide To Understand Blockchain](https://www.amazon.com/Blockchain-Understand-Programming-Contracts-Revolution/dp/1537533371/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1537533371&pd_rd_r=904DCPSY2QZX2VM23XQD&pd_rd_w=3oCFL&pd_rd_wg=jJFBs&psc=1&refRID=904DCPSY2QZX2VM23XQD) - Jared Norton
-* [Blockchain: Quick Start Guide to Understanding Blockchain, the Biggest Revolution in Financial Technology and Beyond Since the Internet](https://www.amazon.com/Blockchain-Understanding-Revolution-Financial-Technology/dp/153469093X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=153469093X&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Seth Ramsey
-* [Blockchain: The Comprehensive Guide to Mastering the Hidden Economy](https://www.amazon.com/Blockchain-Comprehensive-Mastering-Technology-Financial/dp/1537272039/ref=pd_sim_14_9?_encoding=UTF8&pd_rd_i=1537272039&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Timothy Short
-* [Blockchain: The Essential Guide to Understanding the Blockchain Revolution](https://www.amazon.com/Blockchain-Essential-Guide-Understanding-Revolution/dp/1537317504/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1537317504&pd_rd_r=N3211HRZ6T4ETTER3MY3&pd_rd_w=I44Hf&pd_rd_wg=evC6k&psc=1&refRID=N3211HRZ6T4ETTER3MY3) - Jeff Reed
-* [Blockchain: The Future of Internet Innovation - Ideas, Applications and Uses for Blockchain Technology](https://www.amazon.com/Blockchain-Innovation-Applications-Cryptocurrencies-Technological-ebook/dp/B01G80V3O2/ref=sr_1_2?ie=UTF8&qid=1476985977&sr=8-2&keywords=Blockchain+contracts+and+CyberLaw) - Jerry Kershen
-* [Blockchain: The Simple Guide To Everything You Need To Know](https://www.amazon.com/Blockchain-Simple-Guide-Everything-Need/dp/1533161577/ref=pd_sim_14_23?_encoding=UTF8&pd_rd_i=1533161577&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Jacob William
-* [Bye Bye Banks?: How Retail Banks are Being Displaced, Diminished and Disintermediated by Tech Startups and What They Can Do to Survive](https://www.amazon.com/Bye-Banks-Displaced-Diminished-Disintermediated/dp/0993220649/ref=sr_1_1?ie=UTF8&qid=1476986040&sr=8-1&keywords=Bye+Bye+Banks%3F) - James Haycock
-* [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](https://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491924543&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Siraj Raval
-* [Financial Technology: This Book Bundle Includes FinTech and Blockchain](https://www.amazon.com/Financial-Technology-Bundle-FinTech-Blockchain/dp/1533477299/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1533477299&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Jacob William
-* [How to Program a Block Chain Explorer with Python and Bitcoin](https://www.amazon.com/Program-Block-Explorer-Python-Bitcoin-ebook/dp/B014B6890G/ref=sr_1_1?s=books&ie=UTF8&qid=1476984581&sr=1-1&keywords=How+to+Program+a+Block+Chain+Explorer+with+Python+and+Bitcoin) - Alex Gorale
-* [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9) - William Mougayar
-* [The FinTech Book: The Financial Technology Handbook for Investors, Entrepreneurs and Visionaries](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9) - Susanne Chishti and Janos Barberis
-* [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
-* [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
-* [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
-* [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
-
-### White papers
-
-* [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
-* [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) - The European Central Bank
-* [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
-* [Banking in a world of programmable assets](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf) - Accenture
-* [Bitcoin Primer](http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf) - Macro Risk Advisors
-* [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
-* [Bitcoin](http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
-* [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
-* [Blockchain: practical implications of a revolutionary technology for financial markets and beyond](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/) - DLA Piper
-* [Blockchain: the solution for transparency in product supply chains](https://www.provenance.org/whitepaper) - Project Provenance Ltd
-* [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://blockstack.org/blockstack.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
-* [Bootstrapping Trust in Distributed Systems with Blockchains](https://blockstack.org/blockstack-login.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
-* [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
-* [Distributed Ledger Technology: beyond block chain](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) - UK Government Chief Scientific Adviser
-* [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda
-* [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf) - Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
-* [Extending Existing Blockchains with Virtualchain](https://blockstack.org/virtualchain.pdf) - Jude Nelson, Muneeb Ali, Ryan Shea and Michael J. Freedman
-* [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
-* [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit) - Chris Ellis
 
 ### Bitcoin
 
@@ -102,6 +54,71 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 * [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - Saifedean Ammous
 
+### Blockchain Art
+
+* [Artlery](https://artlery.com/)
+* [Ascribe](https://www.ascribe.io/)
+* [Bitmark](https://bitmark.com/)
+* [Blockai](https://blockai.com/)
+* [Everledger](http://www.everledger.io/)
+* [MediaChain Labs](http://www.mediachainlabs.com/)
+* [Monegraph](https://monegraph.com/)
+* [Tagsmart](http://www.tagsmart.com/)
+* [Verisart](https://www.verisart.com/)
+
+### Blockchain Books
+
+* [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
+* [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
+* [Cryptocurrency Investment: How to Invest in Cryptocurrencies and Make Money in the Long-term](https://www.amazon.com/dp/B07588PNMR) - Tamas Torok
+* [Blockchain Revolution: How the Technology behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Don and AlexTapscott
+* [Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use Blockchain for Your Benefit](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=JMGHCB5WB1SFP0HYMK6E&pd_rd_w=uHeeo&pd_rd_wg=cburT&psc=1&refRID=JMGHCB5WB1SFP0HYMK6E) - Phil Stein
+* [Blockchain The Ultimate Guide to Understanding the Hidden Economy](https://www.amazon.com/Blockchain-Ultimate-Understanding-Hidden-Economy/dp/1534839720/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1534839720&pd_rd_r=6W5M79GD2JFECEZDHPJF&pd_rd_w=19drm&pd_rd_wg=DMS0s&psc=1&refRID=6W5M79GD2JFECEZDHPJF) -s Oscar Flynt
+* [Blockchain: Blueprint for a New Economy](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491920491&pd_rd_r=3KQXC5RXYM1R64CDQ0DW&pd_rd_w=YGgzx&pd_rd_wg=udR6C&psc=1&refRID=3KQXC5RXYM1R64CDQ0DW) - Melanie Swan
+* [Blockchain: Easiest Ultimate Guide To Understand Blockchain](https://www.amazon.com/Blockchain-Understand-Programming-Contracts-Revolution/dp/1537533371/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1537533371&pd_rd_r=904DCPSY2QZX2VM23XQD&pd_rd_w=3oCFL&pd_rd_wg=jJFBs&psc=1&refRID=904DCPSY2QZX2VM23XQD) - Jared Norton
+* [Blockchain: Quick Start Guide to Understanding Blockchain, the Biggest Revolution in Financial Technology and Beyond Since the Internet](https://www.amazon.com/Blockchain-Understanding-Revolution-Financial-Technology/dp/153469093X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=153469093X&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Seth Ramsey
+* [Blockchain: The Comprehensive Guide to Mastering the Hidden Economy](https://www.amazon.com/Blockchain-Comprehensive-Mastering-Technology-Financial/dp/1537272039/ref=pd_sim_14_9?_encoding=UTF8&pd_rd_i=1537272039&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Timothy Short
+* [Blockchain: The Essential Guide to Understanding the Blockchain Revolution](https://www.amazon.com/Blockchain-Essential-Guide-Understanding-Revolution/dp/1537317504/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1537317504&pd_rd_r=N3211HRZ6T4ETTER3MY3&pd_rd_w=I44Hf&pd_rd_wg=evC6k&psc=1&refRID=N3211HRZ6T4ETTER3MY3) - Jeff Reed
+* [Blockchain: The Future of Internet Innovation - Ideas, Applications and Uses for Blockchain Technology](https://www.amazon.com/Blockchain-Innovation-Applications-Cryptocurrencies-Technological-ebook/dp/B01G80V3O2/ref=sr_1_2?ie=UTF8&qid=1476985977&sr=8-2&keywords=Blockchain+contracts+and+CyberLaw) - Jerry Kershen
+* [Blockchain: The Simple Guide To Everything You Need To Know](https://www.amazon.com/Blockchain-Simple-Guide-Everything-Need/dp/1533161577/ref=pd_sim_14_23?_encoding=UTF8&pd_rd_i=1533161577&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Jacob William
+* [Bye Bye Banks?: How Retail Banks are Being Displaced, Diminished and Disintermediated by Tech Startups and What They Can Do to Survive](https://www.amazon.com/Bye-Banks-Displaced-Diminished-Disintermediated/dp/0993220649/ref=sr_1_1?ie=UTF8&qid=1476986040&sr=8-1&keywords=Bye+Bye+Banks%3F) - James Haycock
+* [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](https://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1491924543&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Siraj Raval
+* [Financial Technology: This Book Bundle Includes FinTech and Blockchain](https://www.amazon.com/Financial-Technology-Bundle-FinTech-Blockchain/dp/1533477299/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1533477299&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Jacob William
+* [How to Program a Block Chain Explorer with Python and Bitcoin](https://www.amazon.com/Program-Block-Explorer-Python-Bitcoin-ebook/dp/B014B6890G/ref=sr_1_1?s=books&ie=UTF8&qid=1476984581&sr=1-1&keywords=How+to+Program+a+Block+Chain+Explorer+with+Python+and+Bitcoin) - Alex Gorale
+* [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9) - William Mougayar
+* [The FinTech Book: The Financial Technology Handbook for Investors, Entrepreneurs and Visionaries](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9) - Susanne Chishti and Janos Barberis
+* [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
+* [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
+* [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
+* [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
+
+### Courses
+
+* [EatTheBlocks Pro](http://pro.eattheblocks.com/)
+* [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](https://www.manning.com/livevideo/ethereum-dapps-in-motion?a_aid=eattheblocks)
+* [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency)- Princeton University
+* [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/)- Udemy
+* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
+* [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
+* [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
+* [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Pluralsight
+* [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
+* [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
+* [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
+* [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
+* [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - University of Nicosia
+
+### Documentaries
+
+* [Banking on Bitcoin(Trailer)](https://www.youtube.com/watch?v=LJsbebFyM48)
+* [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
+* [Inside Man with Morgan Spurlock](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Bitcoin: Liberating Organic Farmers](http://www.youtube.com/watch?v=fBLpx6gQtUU)
+* [Bitcoins in Argentina](http://www.youtube.com/watch?v=e__m-w4N7NI)
+* [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
+* [The Bitcoin Doco](https://vimeo.com/112223859)
+* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
+
 ### Ethereum and Smart Contracts
 
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
@@ -125,11 +142,60 @@ A curated list of blockchain and general cryptocurrency resources.
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
 
+### Explorers
+
+* [Apirone.com](https://apirone.com/btc/)
+* [Bitaps](https://bitaps.com/)
+* [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
+* [Block Explorer](https://blockexplorer.com/)
+* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
+* [Blockonomics](https://www.blockonomics.co/)
+* [Blockstack Explorer](https://explorer.blockstack.org/)
+* [Blockr](http://blockr.io/)
+* [Blocktrail](https://www.blocktrail.com/BTC)
+* [Btc Chain](https://btc.com/)
+* [Chain Flyer](http://chainflyer.bitflyer.jp/)
+* [Coin Payments](https://explorer.coinpayments.net/)
+* [Coin Prism](https://www.coinprism.info/)
+* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
+* [Ether.Camp](http://frontier.ether.camp/)
+* [EtherChain](https://etherchain.org/)
+* [Ethereum Network Stats](https://stats.ethdev.com/)
+* [Etherscan](https://etherscan.io/)
+* [Ethplorer](https://ethplorer.io/)
+* [Etherchain](https://etherchain.org/)
+* [Trivial](https://trivial.co/)
+* [Insight](https://insight.bitpay.com/)
+* [Size of the Network](https://getaddr.bitnodes.io/)
+* [Smartbit](https://www.smartbit.com.au/)
+* [SoChain](https://chain.so/btc)
+* [Tradeblock](https://tradeblock.com/markets)
+* [Wallet Explorer](https://www.walletexplorer.com/)
+* [WebBtc](https://webbtc.com/)
+* [Exchangify](https://exchangify.io/)
+
 ### Infographics
 
 * [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 * [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
 * [Crypto Table - A Periodic Table of Cryptocurrencies](https://jes.al/crypto-table/)
+
+### Research papers
+
+* [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
+* [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) - The European Central Bank
+* [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
+* [Bitcoin Primer](http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf) - Macro Risk Advisors
+* [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
+* [Bitcoin and Red Balloons](https://web.archive.org/web/20111115144342/http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
+* [Blockchain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
+* [Blockchain: the solution for transparency in product supply chains](https://www.provenance.org/whitepaper) - Project Provenance Ltd
+* [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
+* [Distributed Ledger Technology: beyond block chain](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) - UK Government Chief Scientific Adviser
+* [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda
+* [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf) - Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
+* [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](https://web.archive.org/web/20160909194435/https://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
+* [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit) - Chris Ellis
 
 ### Talks
 
@@ -191,77 +257,6 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [BitcoinLectures.tv](http://bitcoinlectures.tv/)
-
-### Courses
-
-* [EatTheBlocks Pro](http://pro.eattheblocks.com/)
-* [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](https://www.manning.com/livevideo/ethereum-dapps-in-motion?a_aid=eattheblocks)
-* [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency)- Princeton University
-* [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/)- Udemy
-* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
-* [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
-* [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
-* [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Pluralsight
-* [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
-* [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
-* [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
-* [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
-* [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - University of Nicosia
-
-### Documentaries
-
-* [Banking on Bitcoin(Trailer)](https://www.youtube.com/watch?v=LJsbebFyM48)
-* [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
-* [Inside Man with Morgan Spurlock](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
-* [Bitcoin: Liberating Organic Farmers](http://www.youtube.com/watch?v=fBLpx6gQtUU)
-* [Bitcoins in Argentina](http://www.youtube.com/watch?v=e__m-w4N7NI)
-* [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
-* [The Bitcoin Doco](https://vimeo.com/112223859)
-* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
-
-### Blockchain Art
-
-* [Artlery](https://artlery.com/)
-* [Ascribe](https://www.ascribe.io/)
-* [Bitmark](https://bitmark.com/)
-* [Blockai](https://blockai.com/)
-* [Everledger](http://www.everledger.io/)
-* [MediaChain Labs](http://www.mediachainlabs.com/)
-* [Monegraph](https://monegraph.com/)
-* [Tagsmart](http://www.tagsmart.com/)
-* [Verisart](https://www.verisart.com/)
-
-### Explorers
-
-* [Apirone.com](https://apirone.com/btc/)
-* [Bitaps](https://bitaps.com/)
-* [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
-* [Block Explorer](https://blockexplorer.com/)
-* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
-* [Blockonomics](https://www.blockonomics.co/)
-* [Blockstack Explorer](https://explorer.blockstack.org/)
-* [Blockr](http://blockr.io/)
-* [Blocktrail](https://www.blocktrail.com/BTC)
-* [Btc Chain](https://btc.com/)
-* [Chain Flyer](http://chainflyer.bitflyer.jp/)
-* [Coin Payments](https://explorer.coinpayments.net/)
-* [Coin Prism](https://www.coinprism.info/)
-* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
-* [Ether.Camp](http://frontier.ether.camp/)
-* [EtherChain](https://etherchain.org/)
-* [Ethereum Network Stats](https://stats.ethdev.com/)
-* [Etherscan](https://etherscan.io/)
-* [Ethplorer](https://ethplorer.io/)
-* [Etherchain](https://etherchain.org/)
-* [Trivial](https://trivial.co/)
-* [Insight](https://insight.bitpay.com/)
-* [Size of the Network](https://getaddr.bitnodes.io/)
-* [Smartbit](https://www.smartbit.com.au/)
-* [SoChain](https://chain.so/btc)
-* [Tradeblock](https://tradeblock.com/markets)
-* [Wallet Explorer](https://www.walletexplorer.com/)
-* [WebBtc](https://webbtc.com/)
-* [Exchangify](https://exchangify.io/)
 
 ### Assets
 
