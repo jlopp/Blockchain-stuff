@@ -1,10 +1,8 @@
-#
-**Blockchain-stuff**
+# Blockchain-stuff
 
 A curated list of blockchain and general cryptocurrency resources.
 
-#
-**Table of Contents**
+## Table of Contents
 
 * [Bitcoin Books](#bitcoin)
 * [Blockchain Art](#blockchain-art)
@@ -20,8 +18,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Assets](#assets)
 * [Private Blockchains](#private-blockchain)
 
-###
-**Blockchain Books**
+### Blockchain Books
 
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
 * [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
@@ -47,8 +44,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
 
-###
-**White papers**
+### White papers
 
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
 * [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) - The European Central Bank
@@ -70,8 +66,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
 * [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit) - Chris Ellis
 
-### 
-**Bitcoin**
+### Bitcoin
 
 * [Who is Bitcoin address owner, mentions on the Internet, forums, scam alerts, and other metadata.](https://allprivatekeys.com/whose-bitcoin-address.php) - Maksim Boyarov
 * [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin
@@ -107,8 +102,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 * [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - Saifedean Ammous
 
-### 
-**Ethereum and Smart Contracts**
+### Ethereum and Smart Contracts
 
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
 * [Blockchain contracts and CyberLaw](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw) - Pavan Duggal
@@ -131,15 +125,13 @@ A curated list of blockchain and general cryptocurrency resources.
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
 
-### 
-**Infographics**
+### Infographics
 
 * [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 * [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
 * [Crypto Table - A Periodic Table of Cryptocurrencies](https://jes.al/crypto-table/)
 
-### 
-**Talks**
+### Talks
 
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
@@ -168,8 +160,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 * [Masters of Blockchain (11 episodes)](http://mastersofblockchain.org/)
 
-### 
-**Youtube Channels**
+### Youtube Channels
 
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
@@ -201,8 +192,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [BitcoinLectures.tv](http://bitcoinlectures.tv/)
 
-### 
-**Courses**
+### Courses
 
 * [EatTheBlocks Pro](http://pro.eattheblocks.com/)
 * [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](https://www.manning.com/livevideo/ethereum-dapps-in-motion?a_aid=eattheblocks)
@@ -218,8 +208,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
 * [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - University of Nicosia
 
-### 
-**Documentaries**
+### Documentaries
 
 * [Banking on Bitcoin(Trailer)](https://www.youtube.com/watch?v=LJsbebFyM48)
 * [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
@@ -230,8 +219,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [The Bitcoin Doco](https://vimeo.com/112223859)
 * [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
 
-### 
-**Blockchain Art**
+### Blockchain Art
 
 * [Artlery](https://artlery.com/)
 * [Ascribe](https://www.ascribe.io/)
@@ -243,8 +231,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [Tagsmart](http://www.tagsmart.com/)
 * [Verisart](https://www.verisart.com/)
 
-### 
-**Explorers**
+### Explorers
 
 * [Apirone.com](https://apirone.com/btc/)
 * [Bitaps](https://bitaps.com/)
@@ -276,8 +263,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [WebBtc](https://webbtc.com/)
 * [Exchangify](https://exchangify.io/)
 
-### 
-**Assets**
+### Assets
 
 * [Coinspark](http://coinspark.org/)
 * [Chronicled](http://www.chronicled.com/index.html)
@@ -285,8 +271,7 @@ A curated list of blockchain and general cryptocurrency resources.
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
 
-### 
-**Private Blockchains**
+### Private Blockchains
 
 * [Corda](https://www.corda.net/)
 * [HyperLedger](https://www.hyperledger.org/)
